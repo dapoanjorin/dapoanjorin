@@ -8,7 +8,7 @@
 - Currently I'm an Android developer at [Novugrid Technologies](https://www.novugrid.com/) 
 - Android Lead at [Developer Student Clubs, University of Ibadan.](https://gdsc.community.dev/university-of-ibadan/)
 ### How to reach me 🙋‍♂️
-[Linkedln](https://www.linkedin.com/in/adedapo-anjorin-579934141/) || [Twiiter](https://twitter.com/_ade_dapo_) || [Gmail](femidpo3@gmail.com)
+[Linkedln](https://www.linkedin.com/in/adedapo-anjorin-579934141/) || [Twiiter](https://twitter.com/_ade_dapo_) || femidpo3@gmail.com
 
 
 <!--
