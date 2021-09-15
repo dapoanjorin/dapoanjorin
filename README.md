@@ -1,4 +1,4 @@
-## Hi there 👋, I.m Adedapo Anjorin
+## Hi there 👋, I'm Adedapo Anjorin
 ### About me 🚀
 
 <!--
