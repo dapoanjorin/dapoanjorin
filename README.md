@@ -1,8 +1,13 @@
 ## Hi there 👋, I'm Adedapo Anjorin
 ### About me 🚀
--seedling I’m a passionate Android developer
--man_technologistI enjoy learning new things. 
--😄 Pronouns: He/Him
+- 🚀 I’m a passionate Android developer
+- 👨‍💻 I enjoy learning new things. 
+- 🌱 I’m currently learning Jetpack Compose
+- 😄 Pronouns: He/Him
+
+- Currently I'm an Android developer at [Novugrid Technologies](https://www.novugrid.com/) 
+- Android Lead at [Developer Student Clubs, University of Ibadan.](https://gdsc.community.dev/university-of-ibadan/)
+- 
 
 <!--
 **dapoanjorin/dapoanjorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
