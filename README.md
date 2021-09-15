@@ -7,8 +7,8 @@
 
 - Currently I'm an Android developer at [Novugrid Technologies](https://www.novugrid.com/) 
 - Android Lead at [Developer Student Clubs, University of Ibadan.](https://gdsc.community.dev/university-of-ibadan/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### How to reach me 🙋‍♂️
+[Linkedln](https://www.linkedin.com/in/adedapo-anjorin-579934141/) || [Twiiter](https://twitter.com/_ade_dapo_) || [Gmail](femidpo3@gmail.com)
 
 
 <!--
