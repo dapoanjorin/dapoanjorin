@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Adedapo Anjorin
 ### About me 🚀
-seedling I’m an Android developer with a masters degree in Computer Application.
-man_technologist I am passionate about Web Dev & I enjoy learning new things. 
-😄 Pronouns: He/Him
+-seedling I’m a passionate Android developer
+-man_technologistI enjoy learning new things. 
+-😄 Pronouns: He/Him
 
 <!--
 **dapoanjorin/dapoanjorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
